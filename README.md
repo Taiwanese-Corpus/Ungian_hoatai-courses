@@ -24,3 +24,17 @@ https://sites.google.com/site/2013shoatai/system/app/pages/admin/revisions?wuid=
 ```
 https://sites.google.com/site/2013shoatai/system/app/pages/admin/compare?wuid=wuid:gx:2a767f60ece1eebe&rev1=19
 ```
+
+## 資料備份流程
+
+為了減化google登入的問題，直接使用firefox瀏覽器和套件[DownThemAll!](https://addons.mozilla.org/zh-tw/firefox/addon/downthemall/)。
+
+###  人工下載目錄
+人工下載文章目錄，用另存新檔只需存html即可，請保持檔名包含`清單`或`pagelist`：
+```
+https://sites.google.com/site/2013shoatai/system/app/pages/admin/pagelisting
+https://sites.google.com/site/2013shoatai/system/app/pages/admin/pagelisting?offset=50
+```
+
+### 產生下載列表
+
