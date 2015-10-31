@@ -9,5 +9,4 @@
 
 使用前請先向允言老師申請權限。
 
-使用[google-sites-liberation
-](https://github.com/sih4sing5hong5/google-sites-liberation)下載資料。
+使用[google-sites-liberation](https://github.com/sih4sing5hong5/google-sites-liberation)下載資料。
